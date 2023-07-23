@@ -22,9 +22,10 @@ This project consists of demonstrating how to update file permissions for certai
 <b>Check file and directory details:</b> <br>
                                     
 The following code demonstrates how I used Linux commands to determine the existing permissions set for a specific directory in the file system.
- <p align="center"> 
+<p align="center"> 
 <img src="https://i.imgur.com/6hU4DxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br>
 <br />
+<p align=” justify”>
 The first line of the screenshot displays the command I entered, and the other lines display the output. The code lists all contents of the projects directory. I used the ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The output of my command indicates that there is one directory named drafts, one hidden file named .project_x.txt, and five other project files. The 10-character string in the first column represents the permissions set on each file or directory.
 <br />
 <br />
@@ -37,6 +38,7 @@ The following code demonstrates how I used Linux commands to do this:
 <p align="center">
 <img src="https://i.imgur.com/qZvLROp.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br>
 <br />
+<p align=” justify”>
 The first two lines of the screenshot display the commands I entered, and the other lines display the output of the second command. The chmod command changes the permissions on files and directories. The first argument indicates what permissions should be changed, and the second argument specifies the file or directory. In this example, I removed write permissions from other for the project_k.txt file. After this, I used ls -la to review the updates I made.
 <br />
 <br />
