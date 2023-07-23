@@ -25,7 +25,7 @@ The following code demonstrates how I used Linux commands to determine the exist
  <p align="center"> 
 <img src="https://i.imgur.com/6hU4DxJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> <br>
 <br />
-   The first line of the screenshot displays the command I entered, and the other lines display the output. The code lists all contents of the projects directory. I used the ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The output of my command indicates that there is one directory named drafts, one hidden file named .project_x.txt, and five other project files. The 10-character string in the first column represents the permissions set on each file or directory.
+The first line of the screenshot displays the command I entered, and the other lines display the output. The code lists all contents of the projects directory. I used the ls command with the -la option to display a detailed listing of the file contents that also returned hidden files. The output of my command indicates that there is one directory named drafts, one hidden file named .project_x.txt, and five other project files. The 10-character string in the first column represents the permissions set on each file or directory.
 <br />
 <br />
 <p align="center">
