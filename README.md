@@ -14,7 +14,7 @@ This project consists of demonstrating how to update file permissions for certai
 
 <h2>Environment Used </h2>
 
-- <b>Linux</b> 
+- <b>Linux/Bash</b> 
 
 <h2>Project Walk-Through:</h2>
 
