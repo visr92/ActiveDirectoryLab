@@ -7,11 +7,6 @@ This project consists of demonstrating how to update file permissions for certai
 <br />
 
 
-<h2>Language</h2>
-
-- <b>SQL</b> 
-
-
 <h2>Environment Used </h2>
 
 - <b>Linux/Bash</b> 
